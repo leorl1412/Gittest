@@ -2,6 +2,6 @@
 
 int main(){
 
-printf("Hello\n");  //Lo edite desde github
+printf("Hello desde terminal\n");  //Lo edite desde github
 
 }
